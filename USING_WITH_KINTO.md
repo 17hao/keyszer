@@ -4,7 +4,7 @@
 
 First, have a glace thru `UPGRADE_FROM_XKEYSNAIL.md`.
 
-- TLDR, remove `imports` from the top.
+- TLDR, remove `from xkeysnail.transform import *` from the top.
 - Fix `pass_through_key`, which has been removed.
 - Add `bind` to tabbing key combos (for sticky tabbing).
 
